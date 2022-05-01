@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Orelega+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito&family=Orelega+One&display=swap');
+
+body{
+
+}
+
+h1{
+  color: white;
+  font-family: Orelega One;
+    font-size:35px;
+}
+
+p{
+  color: white;
+  font-family: Nunito;
+  font-size:20px;
+  text-align: justify;
+}
+
+
+
